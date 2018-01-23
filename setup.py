@@ -6,10 +6,10 @@ setup(
     name='blockchain-parser',
     version=__version__,
     packages=find_packages(),
-    url='https://github.com/alecalve/python-bitcoin-blockchain-parser',
+    url='https://github.com/r2007/python-altcoin-blockchain-parser',
     author='Antoine Le Calvez',
     author_email='antoine@p2sh.info',
-    description='Bitcoin blockchain parser',
+    description='Altcoin blockchain parser',
     test_suite='blockchain_parser.tests',
     classifiers=[
         'Development Status :: 5 - Production/Stable',
